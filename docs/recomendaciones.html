@@ -1,158 +1,187 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Bueno Bonito Barato</title>
-        <link rel="shortcut icon" href="../images/fav_icon.png" type="image/x-icon">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        
-        <!-- Bulma Version 0.7.4-->
-        <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.4/css/bulma.min.css" />
-        <link rel="stylesheet" type="text/css" href="../css/hero.css">
-        <link rel="stylesheet" href="https://unpkg.com/bulma-modal-fx/dist/css/modal-fx.min.css" />
-    </head>
-    <body>
-        <section class="hero is-info is-medium is-bold">
-            <div class="hero-head">
-                <nav class="navbar">
-                    <div class="container">
-                        <div class="navbar-brand">
-                            <a class="navbar-item" href="../">
-                                <i class="fa fa-shopping-cart" style="font-size:48px;color:orange"></i>
-                                <p style="margin-right: 20px;"></p><img src="images/Capture.PNG" alt="Smiley face" height="300" width="300">   
 
-                            </a>
-                            <span class="navbar-burger burger" data-target="navbarMenu">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </span>
-                        </div>
-                        <div id="navbarMenu" class="navbar-menu">
-                            <div class="navbar-end">
-                                <div class="tabs is-right">
-                                    <ul>
-                                        <li ><a href="index.html">Inicio</a></li>
-                                        <li><a href="template.html">Productos</a></li>
-                                        <li class="is-active"><a href="recomendaciones.html">Recomendaciones</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bueno Bonito Barato</title>
+    <link rel="shortcut icon" href="../images/fav_icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+
+
+    <!-- Bulma Version 0.7.4-->
+    <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.4/css/bulma.min.css" />
+    <link rel="stylesheet" type="text/css" href="../css/hero.css">
+    <link rel="stylesheet" href="https://unpkg.com/bulma-modal-fx/dist/css/modal-fx.min.css" />
+
+    <script>
+        $(document).ready(function () {
+
+            // Check for click events on the navbar burger icon
+            $(".navbar-burger").click(function () {
+
+                // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                $(".navbar-burger").toggleClass("is-active");
+                $(".navbar-menu").toggleClass("is-active");
+
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <section class="hero is-info is-medium is-bold">
+        <div class="hero-head">
+
+            <nav class="navbar" role="navigation" aria-label="main navigation">
+                <div class="navbar-brand">
+
+                    <a class="navbar-item" href="../">
+                        <i class="fa fa-shopping-cart" style="font-size:48px;color:orange"></i>
+                        <p style="margin-right: 20px;"></p><img src="images/Capture.PNG" alt="Smiley face" height="300"
+                            width="300">
+                    </a>
+
+                    <a class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                        data-target="navbarBasicExample">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+
+                </div>
+
+                <div class="navbar-menu is-active" id="navbarBasicExample">
+                    <div class="navbar-start">
+                        <a class="navbar-item" href="index.html">
+                            Home
+                        </a>
+
+                        <a class="navbar-item" a href="template.html">
+                            Documentation
+                        </a>
+                        <a class="navbar-item" a href="recomendaciones.html">
+                            Recomendaciones
+                        </a>
                     </div>
-                </nav>
-            </div>
-            <div class="hero-body">
-                <div class="container has-text-centered">
-                    <h1 class="title">
+                </div>
+
+            </nav>
+
+        </div>
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title">
                     Recomendaciones por categoria
 
-                    </h1>
+                </h1>
 
+            </div>
+        </div>
+    </section>
+    <div class="box cta">
+        <p class="has-text-centered">
+            <span class="tag is-primary">Update</span> Ultima actualización 07-05-19
+        </p>
+    </div>
+
+    <section class="container">
+        <div class="columns features">
+            <div class="column is-4">
+                <div class="card is-shady">
+                    <div class="card-content">
+                        <div class="content" style="text-align: center">
+                            <h3>Comida</h3>
+                            <div style="text-align: center">
+                                <img src="images/pizza.png" alt="Smiley face" height="100" width="100">
+                            </div>
+
+                            <div class="content has-text-centered">
+                                <div class="control level-item">
+                                    <a href="https://google.com">
+                                        <div class="tags has-addons">
+                                            <h5>
+                                                Articulos mas baratos en
+                                            </h5>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div style="text-align: center">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Soriana_logo.svg/1280px-Soriana_logo.svg.png"
+                                    alt="Smiley face" height="100" width="100">
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
-        <div class="box cta">
-            <p class="has-text-centered">
-                <span class="tag is-primary">Update</span> Ultima actualización 07-05-19
-            </p>
+            <div class="column is-4">
+                <div class="card is-shady">
+                    <div class="card-content">
+                        <div class="content" style="text-align: center">
+                            <h4>Limpieza</h4>
+                            <div style="text-align: center">
+                                <img src="images/cleaning.jpg" alt="Smiley face" height="100" width="100">
+
+                            </div>
+
+                            <div class="content has-text-centered">
+                                <div class="control level-item">
+                                    <a href="https://google.com">
+                                        <div class="tags has-addons">
+                                            <h5>
+                                                Articulos mas baratos en
+                                            </h5>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div style="text-align: center">
+                                <img src="images/wallmart.png" alt="Smiley face" height="100" width="100">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-4">
+                <div class="card is-shady">
+                    <div class="card-content">
+                        <div class="content" style="text-align: center">
+                            <h4>Salud</h4>
+                            <div style="text-align: center">
+                                <img src="images/heart-health.png" alt="Smiley face" height="100" width="100">
+
+                            </div>
+
+                            <div class="content has-text-centered">
+                                <div class="control level-item">
+                                    <a href="https://google.com">
+                                        <div class="tags has-addons">
+                                            <h5>
+                                                Articulos mas baratos en
+                                            </h5>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div style="text-align: center">
+                                <img src="images/wallmart.png" alt="Smiley face" height="100" width="100">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <section class="container">
-            <div class="columns features">
-                <div class="column is-4">
-                    <div class="card is-shady">
-                        <div class="card-content">
-                            <div class="content" style="text-align: center">
-                                <h3>Comida</h3>
-                                <div style="text-align: center">
-                                    <img src="images/pizza.png" alt="Smiley face" height="100" width="100">                                
-                                </div>
-                                
-                                <div class="content has-text-centered">
-                                    <div class="control level-item">
-                                        <a href="https://google.com">
-                                            <div class="tags has-addons">
-                                                <h5>
-                                                   Articulos mas baratos en
-                                                </h5>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div style="text-align: center">
-                                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Soriana_logo.svg/1280px-Soriana_logo.svg.png" alt="Smiley face" height="100" width="100">                                
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column is-4">
-                    <div class="card is-shady">
-                        <div class="card-content">
-                            <div class="content" style="text-align: center">
-                                <h4>Limpieza</h4>
-                                <div style="text-align: center">
-                                    <img src="images/cleaning.jpg" alt="Smiley face" height="100" width="100">                                
+    </section>
 
-                                </div>
-                                
-                                <div class="content has-text-centered">
-                                    <div class="control level-item">
-                                        <a href="https://google.com">
-                                            <div class="tags has-addons">
-                                                <h5>
-                                                   Articulos mas baratos en
-                                                </h5>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div style="text-align: center">
-                                    <img src="images/wallmart.png" alt="Smiley face" height="100" width="100">                                
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column is-4">
-                    <div class="card is-shady">
-                        <div class="card-content">
-                            <div class="content" style="text-align: center">
-                                <h4>Salud</h4>
-                                <div style="text-align: center">
-                                    <img src="images/heart-health.png" alt="Smiley face" height="100" width="100">                                
+</body>
 
-                                </div>
-                                
-                                <div class="content has-text-centered">
-                                    <div class="control level-item">
-                                        <a href="https://google.com">
-                                            <div class="tags has-addons">
-                                                <h5>
-                                                   Articulos mas baratos en
-                                                </h5>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div style="text-align: center">
-                                    <img src="images/wallmart.png" alt="Smiley face" height="100" width="100">                                
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>  
-            </div>
-            
-        </section>
-
-    </body>
 </html>

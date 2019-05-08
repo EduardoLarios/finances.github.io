@@ -10,45 +10,68 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+
 
     <!-- Bulma Version 0.7.4-->
     <link rel="stylesheet" href="https://unpkg.com/bulma@0.7.4/css/bulma.min.css" />
     <link rel="stylesheet" type="text/css" href="../css/hero.css">
     <link rel="stylesheet" href="https://unpkg.com/bulma-modal-fx/dist/css/modal-fx.min.css" />
+
+    <script>
+        $(document).ready(function () {
+
+            // Check for click events on the navbar burger icon
+            $(".navbar-burger").click(function () {
+
+                // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                $(".navbar-burger").toggleClass("is-active");
+                $(".navbar-menu").toggleClass("is-active");
+
+            });
+        });
+    </script>
 </head>
 
 <body>
     <section class="hero is-info is-medium is-bold">
         <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-                    <div class="navbar-brand">
-                        <a class="navbar-item" href="../">
-                            <i class="fa fa-shopping-cart" style="font-size:48px;color:orange"></i>
-                            <p style="margin-right: 20px;"></p><img src="images/Capture.PNG" alt="Smiley face"
-                                height="300" width="300">
 
+            <nav class="navbar" role="navigation" aria-label="main navigation">
+                <div class="navbar-brand">
 
+                    <a class="navbar-item" href="../">
+                        <i class="fa fa-shopping-cart" style="font-size:48px;color:orange"></i>
+                        <p style="margin-right: 20px;"></p><img src="images/Capture.PNG" alt="Smiley face" height="300"
+                            width="300">
+                    </a>
+
+                    <a class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                        data-target="navbarBasicExample">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+
+                </div>
+
+                <div class="navbar-menu is-active" id="navbarBasicExample">
+                    <div class="navbar-start">
+                        <a class="navbar-item" href="index.html">
+                            Home
                         </a>
-                        <span class="navbar-burger burger" data-target="navbarMenu">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </span>
-                    </div>
-                    <div id="navbarMenu" class="navbar-menu">
-                        <div class="navbar-end">
-                            <div class="tabs is-right">
-                                <ul>
-                                    <li class="is-active"><a href="index.html">Inicio</a></li>
-                                    <li><a href="template.html">Productos</a></li>
-                                    <li><a href="recomendaciones.html">Recomendaciones</a></li>
-                                </ul>
-                            </div>
-                        </div>
+
+                        <a class="navbar-item" a href="template.html">
+                            Documentation
+                        </a>
+                        <a class="navbar-item" a href="recomendaciones.html">
+                            Recomendaciones
+                        </a>
                     </div>
                 </div>
+
             </nav>
+
         </div>
         <div class="hero-body">
             <div class="container has-text-centered">
