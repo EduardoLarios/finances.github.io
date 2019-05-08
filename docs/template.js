@@ -12,32 +12,27 @@ class NewProduct extends HTMLElement {
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-        <div class="box cta">
-            <p class="has-text-centered">
-                <span class="tag is-primary">Última actualización: </span> ${product.update}
-            </p>
+        <div class="box cta" style="margin-left:5%">
+            <div class="tags has-addons">
+                <span class="tag is-dark">${product.name}</span>
+                <span class="tag is-primary">Actualizado: ${product.update}</span>
+            </div>
         </div>
 
         <section class="container" style="margin-bottom:5%">
         <div class="columns features">
-            <div class="column is-12">
+            <div class="column is-6">
                 <div class="card is-shady">
                     <div class="card-content">
                         <div class="content" style="text-align: center">
-                            <h4>${product.name}</h4>
-                            <div style="text-align: center">
-                                <img src="${product.image}"
-                                    alt="Smiley face" height="600" width="600">
-
-                            </div>
-
-
+                            <figure class="image is-300x300">
+                                <img src="${product.image}" alt="Smiley face" height="300" width="300">
+                            </figure>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="columns features">
+
             <div class="column is-3">
                 <div class="card is-shady">
                     <div class="card-content">
@@ -50,7 +45,7 @@ class NewProduct extends HTMLElement {
                                 <div class="control level-item">
                                     <a href="${product.urlwalmart}">
                                         <div class="tags has-addons">
-                                            <span class="tag is-dark">Wallmart: </span>
+                                            <span class="tag is-dark">Walmart: </span>
                                             <span class="tag is-info">$${product.pricewalmart}</span>
                                         </div>
                                     </a>
@@ -59,9 +54,8 @@ class NewProduct extends HTMLElement {
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="column is-3">
-                <div class="card is-shady">
+
+                <div class="card is-shady" style="margin-top:3%">
                     <div class="card-content">
                         <div class="content" style="text-align: center">
                             <div style="text-align: center;padding: 10px;">
@@ -70,7 +64,6 @@ class NewProduct extends HTMLElement {
                             </div>
                             <div class="content has-text-centered">
                                 <div class="control level-item">
-
                                     <a href="${product.urlchedraui}">
                                         <div class="tags has-addons">
                                             <span class="tag is-dark">Chedraui: </span>
@@ -82,8 +75,11 @@ class NewProduct extends HTMLElement {
                         </div>
                     </div>
                 </div>
+
             </div>
+
             <div class="column is-3">
+
                 <div class="card is-shady">
                     <div class="card-content">
                         <div class="content" style="text-align: center">
@@ -104,9 +100,8 @@ class NewProduct extends HTMLElement {
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="column is-3">
-                <div class="card is-shady">
+
+                <div class="card is-shady" style="margin-top:3%">
                     <div class="card-content">
                         <div class="content" style="text-align: center">
                             <div style="text-align: center;padding: 10px;margin-bottom: 25px;">
@@ -126,9 +121,9 @@ class NewProduct extends HTMLElement {
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
-
     </section>`;
     };
 }
