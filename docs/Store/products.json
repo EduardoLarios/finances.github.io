@@ -7,11 +7,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=72091&key=58961468-1e1c-42e1-954b-178693fe91d3",
             "urlwalmart": "https://super.walmart.com.mx/pan-y-tortillas-empacados/tortilla-taquera-por-kg/00000000000465",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Panadería-y-tortilleria/Tortillería/Tortilla-Taquera-Blanca-kg/p/000000000003108086?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=66&artEan=7503010519072&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "11.60",
             "pricewalmart": "12.00",
             "pricechedraui": "12.55",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "19.00"
         },
         {
             "name": "Azúcar",
@@ -20,11 +20,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=2453690&key=f95e378e-0111-4fe2-ac48-383282f4286f",
             "urlwalmart": "https://super.walmart.com.mx/azucar-y-postres/azucar-morena-zulka-1-kg/00066144000001",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Azúcar-y-Postres/Azúcar-y-Endulzantes/Azúcar-Zulka-Morena-1Kg/p/000000000003238815?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=60&artEan=7501010769442&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "26.00",
             "pricewalmart": "27.50",
             "pricechedraui": "24.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "26.50"
         },
         {
             "name": "Frijol",
@@ -33,11 +33,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=2231598&key=d8b28cae-8be9-4b8a-a2fb-14542a568dac",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/frijol-pinto-verde-valle-1-kg/00750107130144",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Arroz%2C-frijol-y-especias/Frijol/Frijol-Verde-Valle-Pinto-900-Gr/p/000000000003211494?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=67&artEan=7501071301063&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "25.25",
             "pricewalmart": "26.00",
             "pricechedraui": "25.50",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "25.30"
         },
         {
             "name": "Arroz",
@@ -46,11 +46,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1538960&key=c711eea7-7a7c-46ff-b85e-e6474c0bb085",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/arroz-verde-valle-super-extra-1-kg/00750107130145",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Arroz%2C-frijol-y-especias/Arroz/Arroz-Super-Extra-Verde-Valle-Bsa-900-Gr/p/000000000003008380?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=67&artEan=7501071307263&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "23.75",
             "pricewalmart": "24.90",
             "pricechedraui": "24.50",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "27.90"
         },
         {
             "name": "Harina de maíz",
@@ -59,11 +59,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=629087&key=54814845-55d0-4843-b8f4-6a2f44c65637",
             "urlwalmart": "https://super.walmart.com.mx/harina-y-reposteria/harina-de-maiz-maseca-nixtamalizado-1-kg/00750107740005",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Harinas-y-Repostería/Harinas/Harina-Maseca-Para-Tortilla-De-Mai-1-Kg-/p/000000000003018745?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=67&artEan=7501077400050&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.90",
             "pricewalmart": "16.50",
             "pricechedraui": "11.85",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "11.85"
         },
         {
             "name": "Aceite vegetal",
@@ -72,11 +72,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11083085&key=9e0b8f95-e153-459b-8ff1-ade0b552a9f6",
             "urlwalmart": "https://super.walmart.com.mx/aceites-de-cocina/aceite-vegetal-cristal-1-l/00750104810016",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Aceite/Aceites-y-Manteca/Aceite-Cristal-Maiz-1-Lt/p/000000000003140433?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=69&artEan=75002343&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "38.80",
             "pricewalmart": "27.00",
             "pricechedraui": "30.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "25.80"
         },
         {
             "name": "Chiles jalapeños",
@@ -85,11 +85,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11201690&key=0b071366-f5df-44bc-b7a7-3ac94cb804a0",
             "urlwalmart": "https://super.walmart.com.mx/enlatados-y-conservas/chiles-jalapenos-la-costena-enteros-en-escabeche-220-g/00750101700500",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Enlatados-y-Conservas/Chiles-Enlatados/Chiles-Jalapeños-La-Costeña-Enteros-Lata/p/000000000003363316?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=72&artEan=7501017051328&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.05",
             "pricewalmart": "9.20",
             "pricechedraui": "14.05",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "13.15"
         },
         {
             "name": "Leche en polvo",
@@ -98,11 +98,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1849955&key=50f75b81-bb5b-4018-bd44-b69e9b5de571",
             "urlwalmart": "https://super.walmart.com.mx/leche/leche-en-polvo-nido-entera-fortificada-520-g/00750105923552",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Leche-en-Polvo-y-Condensadas/Leche-en-Polvo/Leche-En-Polvo-Nido-Forti-520-Gramos/p/000000000003019727?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=63&artEan=7501058638175&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "82.25",
             "pricewalmart": "77.00",
             "pricechedraui": "77.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "70.00"
         },
         {
             "name": "Atún",
@@ -111,11 +111,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=373557&key=ce86544d-5c64-4be1-b810-3ef62656c097",
             "urlwalmart": "https://super.walmart.com.mx/enlatados-y-conservas/lomo-de-atun-dolores-aleta-amarilla-en-aceite-140-g/00750104540142",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Enlatados-y-Conservas/Pescados-y-Mariscos/Atun-Dolores-140-gr/p/000000000003152853?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=73&artEan=7501045403144&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "15.80",
             "pricewalmart": "17.90",
             "pricechedraui": "15.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "17.40"
         },
         {
             "name": "Sardina",
@@ -124,11 +124,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=11198043&key=9b736017-2d99-40ee-bf47-7b9f7ac395c9",
             "urlwalmart": "https://super.walmart.com.mx/enlatados-y-conservas/sardina-dolores-en-aceite-con-picante-120-g/00750104540299",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Enlatados-y-Conservas/Pescados-y-Mariscos/Sardinas-Ponto-Salsa-De-Chipotle-120-Gr/p/000000000003316695?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=73&artEan=731082007105&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "20.40",
             "pricewalmart": "18.50",
             "pricechedraui": "17.50",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "17.50"
         },
         {
             "name": "Sal de mesa",
@@ -137,11 +137,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=263479&key=7f6ed928-fa50-4467-bc25-59defe14db1a",
             "urlwalmart": "https://super.walmart.com.mx/especias-y-sazonadores/sal-la-fina-refinada-750-g/00003458709066",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Saborizantes/Extractos/Sal-La-Fina-Yodada-Fluorurada-Bolsa-1-Kg/p/000000000003010146?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=71&artEan=34587030013&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "12.75",
             "pricewalmart": "9.90",
             "pricechedraui": "12.60",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "14.30"
         },
         {
             "name": "Café soluble",
@@ -150,11 +150,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=11188502&key=8ec796bd-73d3-4bd7-b482-ee27780eac29",
             "urlwalmart": "https://super.walmart.com.mx/cafe-te-y-sustitutos/cafe-soluble-nescafe-clasico-225-g/00750105861770",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Café-y-Té/Café-Soluble/Café-Soluble-Nestlé-Nescafé-Clasico-225/p/000000000003397661?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=61&artEan=7501058617705&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "84.00",
             "pricewalmart": "88.00",
             "pricechedraui": "88.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "80.00"
         },
         {
             "name": "Chocolate en polvo",
@@ -163,11 +163,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=11070321&key=0b4d05b3-d2a4-41bf-862d-e2de4418db61",
             "urlwalmart": "https://super.walmart.com.mx/saborizantes-y-jarabes/chocolate-en-polvo-nesquik-200-g/00750105861859",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Saborizantes/Saborizantes-de-Leche/Saborizante-Leche-Nesquik-200-GR/p/000000000003394465?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=62&artEan=7501058618597&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "31.75",
             "pricewalmart": "16.00",
             "pricechedraui": "16.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "20.90"
         },
         {
             "name": "Galletas marías",
@@ -176,11 +176,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=358494&key=859e883e-fa31-4a52-8870-77fafaf4b93d",
             "urlwalmart": "https://super.walmart.com.mx/galletas/galletas-marias-gamesa-170-g/00750100065892",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Galletas/Galletas-Gamesa-Marías-170-Gr/p/000000000003044410?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=65&artEan=7501000658923&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.90",
             "pricewalmart": "10.00",
-            "pricechedraui": "150.00",
-            "pricecitymarket": "200.00"
+            "pricechedraui": "10.00",
+            "pricecitymarket": "9.70"
         },
         {
             "name": "Harina de trigo",
@@ -189,11 +189,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=629087&key=3c98dac1-2c01-456b-b7d4-4981629cb0e2",
             "urlwalmart": "https://super.walmart.com.mx/harina-y-reposteria/harina-de-trigo-selecta-1-kg/00750140460311",
             "urlchedraui": "https://www.chedraui.com.mx",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=67&artEan=7501404603116&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.90",
             "pricewalmart": "14.00",
             "pricechedraui": "-",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "11.20"
         },
         {
             "name": "Pasta para sopa",
@@ -202,11 +202,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=365505&key=6c794bf0-30f2-409f-90e0-dbacefd8dd8a",
             "urlwalmart": "https://super.walmart.com.mx/pastas/spaghetti-la-moderna-450-g/00750101831094",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Pastas/Pastas-para-Sopa/Pps-La-Moderna-Spaguetti-450-Gr/p/000000000003241960?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=68&artEan=8076809515207&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "5.65",
             "pricewalmart": "12.00",
             "pricechedraui": "12.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "13.05"
         },
         {
             "name": "Avena",
@@ -215,11 +215,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11241253&key=e1f6e41c-6022-4782-8269-4f3db4df40d4",
             "urlwalmart": "https://super.walmart.com.mx/cereales-y-barras/avena-quaker-oats-hojuelas-de-grano-entero-475-g/00750047800040",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Cereales-y-Barras/Avenas-y-Granolas/Avena-Quaker-Hojuelas-Natural-475-gr/p/000000000003454335?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=64&artEan=7500478000401&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "33.00",
             "pricewalmart": "30.90",
             "pricechedraui": "28.10",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "30.00"
         },
         {
             "name": "Lentejas",
@@ -228,11 +228,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/lentejas-verde-valle-500-g/00750107130115",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Cereales-y-Barras/Avenas-y-Granolas/Avena-Quaker-Hojuelas-Natural-475-gr/p/000000000003454335?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=71&artEan=7501071301155&ver=detallearticulo&opcion=detarticulo/",
             "pricesoriana": "-",
             "pricewalmart": "18.90",
             "pricechedraui": "18.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "20.35"
         },
         {
             "name": "Detergente en polvo",
@@ -241,11 +241,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=369225&key=2878b70c-38cb-4f9b-846a-87ba7e8d208b",
             "urlwalmart": "https://super.walmart.com.mx/lavanderia/detergente-en-polvo-roma-multiusos-biodegradable-1-kg/00750102600460",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Lavandería/Detergentes/Dtgte-Pvo-Musos-Roma-1Kg-Bolsa/p/000000000003064000?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=97&artEan=7501026004605&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "27.50",
             "pricewalmart": "29.50",
             "pricechedraui": "25.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "28.65"
         },
         {
             "name": "Jabón de lavandería",
@@ -254,11 +254,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=369227&key=e262a90c-a2f6-4ac1-a803-e77f1114c408",
             "urlwalmart": "https://super.walmart.com.mx/lavanderia/jabon-zote-en-barra-blanco-200-g/00750102600538",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Lavandería/Jabón-de-Lavandería/Jabon-Lavanderia-Zote-200-grs/p/000000000003103802?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=96&artEan=7501026005374&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "11.10",
             "pricewalmart": "8.50",
             "pricechedraui": "8.15",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "12.65"
         },
         {
             "name": "Pasta de dientes",
@@ -267,11 +267,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11037101&key=4e48c5c3-ea35-4c7f-8e69-b4981f8194e9",
             "urlwalmart": "https://super.walmart.com.mx/cuidado-bucal/pasta-dental-crest-complete-menta-suave-50-ml/00750619510023",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Higiene-y-Belleza/Cuidado-Bucal/Pastas-Dentales/Crema-Dental-Crest-Menta-Anticaries-1-Pz/p/000000000003528241?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=10&artEan=5000174305449&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "16.00",
             "pricewalmart": "13.90",
             "pricechedraui": "18.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "115.00"
         },
         {
             "name": "Jabón de tocador",
@@ -280,11 +280,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11318106&key=8be5339a-a4ad-4607-8151-3e74acd07e9a",
             "urlwalmart": "https://super.walmart.com.mx/cuidado-corporal/jabon-de-tocador-palmolive-neutro-balance-dermolimpiador-150-g/00750954607497",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Higiene-y-Belleza/Cuidado-Personal/Jabones-Líquidos-y-Barras/Jabon-Tocador-Colgate-Palmolive-Neutro-B/p/000000000003495640?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=131&artEan=7891150026025&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "10.00",
             "pricewalmart": "12.90",
             "pricechedraui": "10.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "19.90"
         },
         {
             "name": "Papel higiénico",
@@ -293,11 +293,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11259303&key=e1bcd783-a12f-444f-8e6a-ce5f35b94e31",
             "urlwalmart": "https://super.walmart.com.mx/papel-higienico/papel-higienico-petalo-rendimax-12-rollos-con-320-hojas-dobles/00750194345845",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Desechables/Papel-Higiénico/Papel-higienico-Petalo-Rendimax-12x320HD/p/000000000003003546?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=92&artEan=7501943458451&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "84.90",
             "pricewalmart": "90.00",
             "pricechedraui": "85.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "79.10"
         },
         {
             "name": "Carne de res",
@@ -306,11 +306,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=2154236&key=d98e8bb7-f6f4-48e0-97f4-26ebd1f70008",
             "urlwalmart": "https://super.walmart.com.mx/res/bistec-de-res-por-kg/00020137000000",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Carnes-y-Pescados-/Res/Carne-Para-Deshebrar-Res-kg/p/000000000003102635?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=421&artEan=2610996000007&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "139.90",
             "pricewalmart": "157.00",
             "pricechedraui": "146.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "179.90"
         },
         {
             "name": "Carne de pollo",
@@ -319,11 +319,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=568397&key=6e8baa52-822f-4215-a37e-a328271aef09",
             "urlwalmart": "https://super.walmart.com.mx/aves/pollo-entero-sin-cortar-2-2-kg-aprox/00020104500000",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Lácteos-y-Huevos/Huevo/Rojo/Pollo/p/000000000003099652?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=446&artEan=2611001000005&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "32.90",
             "pricewalmart": "37.00",
             "pricechedraui": "33.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "42.53"
         },
         {
             "name": "Carne de puerco",
@@ -332,11 +332,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=11238173&key=643ec890-9d7d-4c5d-a547-27485f43f0b8",
             "urlwalmart": "https://super.walmart.com.mx/cerdo/chuleta-de-cerdo-por-kg/00020100700000",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Carnes-y-Pescados-/Chuleta-de-Cerdo-Adobada-Kg/p/000000000003446937?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=402&artEan=2610135000004&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "92.90",
             "pricewalmart": "93.00",
             "pricechedraui": "99.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "91.50"
         },
         {
             "name": "Pan",
@@ -345,11 +345,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=357844&key=a5a590ac-43b2-4864-8cc6-19177154b4d5",
             "urlwalmart": "https://super.walmart.com.mx/pan-y-tortillas-empacados/pan-blanco-bimbo-grande-680-g/00750100011120",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Panadería-y-tortilleria/Pan/Pan-de-Caja/Pan-Blanco-Bimbo-Grande-680-Gr/p/000000000003018184?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=66&artEan=7501000111206&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "32.75",
             "pricewalmart": "33.00",
             "pricechedraui": "32.60",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "33.00"
         },
         {
             "name": "Huevo",
@@ -358,11 +358,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1053255&key=bb0c807b-90ba-41c0-be95-78f8e8a8877a",
             "urlwalmart": "https://super.walmart.com.mx/huevo/huevo-blanco-san-juan-18-pzas/00750300055509",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Lácteos-y-Huevos/Huevo/Codorniz/Huevo-San-Juan-Blanco-18-Pz/p/000000000003101214?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=26&artEan=7503000555097&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "36.50",
             "pricewalmart": "33.50",
             "pricechedraui": "33.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "25.90"
         },
         {
             "name": "Pescado",
@@ -371,11 +371,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=305769&key=add4b332-a59a-417e-9d17-a3e8c7d8a6a5",
             "urlwalmart": "https://super.walmart.com.mx/pescados/pescado-sierra-entera-por-kg/00020652500000?gclid=EAIaIQobChMI1e3YxYGK4gIVhbXACh1HVAe9EAQYASABEgJm0PD_BwE",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Carnes-y-Pescados-/Pescados-y-Mariscos/Pescado-Para-Caldo-Kg/p/000000000003234192?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=466&artEan=2640026000004&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "89.90",
             "pricewalmart": "94.00",
             "pricechedraui": "80.85",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "99.90"
         },
         {
             "name": "Agua purificada",
@@ -384,11 +384,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=1063237&key=e6128f9b-d4fb-4fe2-bbc1-ca026b04ecdc",
             "urlwalmart": "https://super.walmart.com.mx/agua/agua-epura-1-l/00750108680104",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Bebidas/Agua/Agua-Natural-Epura-1-Lt/p/000000000003041412?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=85&artEan=7501086801046&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "7.35",
             "pricewalmart": "7.00",
             "pricechedraui": "6.80",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "6.35"
         },
         {
             "name": "Garbanzo",
@@ -397,11 +397,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=383202&key=e901ed5d-a6c3-4d06-89e7-a4025fee62f8",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/garbanzo-verde-valle-500-g/00750107130111",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Arroz%2C-frijol-y-especias/Semillas/Garbanzo-Norver-500-Gr/p/000000000003216512?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=71&artEan=7501088940552&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "36.50",
             "pricewalmart": "28.50",
             "pricechedraui": "21.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "35.00"
         },
         {
             "name": "Chícharos",
@@ -410,11 +410,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=186&key=5eb20219-4df3-4700-858a-4869290564db",
             "urlwalmart": "https://super.walmart.com.mx/verduras/chicharo-en-vaina-por-kilo/00000000004674",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Verduras/Manojeo-y-Hortalizas/Chicharo-Granel-Kg/p/000000000003102871?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=15&artEan=46749&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "49.90",
             "pricewalmart": "64.00",
             "pricechedraui": "47.60",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "43.80"
         },
         {
             "name": "Plátano chiapas",
@@ -423,11 +423,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=456&key=36dc2a76-a3e0-40b2-bbcb-c5ca43ff13b6",
             "urlwalmart": "https://super.walmart.com.mx/frutas/platano-chiapas-por-kg/00000000004011",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Frutas/Plátanos-y-Tropicales/Plátano-Chiapas/p/000000000003102828?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=14&artEan=40112&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.80",
             "pricewalmart": "17.90",
             "pricechedraui": "17.80",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "19.50"
         },
         {
             "name": "Manzana gala",
@@ -436,11 +436,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=404&key=5bb51657-d8d8-4699-a9a1-9857b10730f5",
             "urlwalmart": "https://super.walmart.com.mx/frutas/manzana-gala-por-kilo/00000000004132",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Frutas/Manzanas/Manzana-Royal-Gala%C2%A0-Kg%C2%A0%C2%A0/p/000000000003102802?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=14&artEan=1052&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "49.90",
             "pricewalmart": "44.00",
             "pricechedraui": "65.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "65.60"
         },
         {
             "name": "Jitomate saladet",
@@ -449,11 +449,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1481622&key=ee11aabd-1c17-4747-a598-d87a9d826b93",
             "urlwalmart": "https://super.walmart.com.mx/verduras/jitomate-saladet-por-kilo/00000000004087",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Verduras/Verduras-Básicas/Tomate-Saladet-Granel-Kg%C2%A0%C2%A0%C2%A0/p/000000000003102861?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=15&artEan=31516&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "14.80",
             "pricewalmart": "16.90",
             "pricechedraui": "11.50",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "25.80"
         },
         {
             "name": "Papa blanca",
@@ -462,11 +462,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=407&key=48a98b07-67c1-4197-96f9-7af80cb46cb3",
             "urlwalmart": "https://super.walmart.com.mx/verduras/papa-blanca-alfa-por-kilo/00000000004083",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Verduras/Verduras-Básicas/Papa-Blanca-Granel-Kg%C2%A0%C2%A0/p/000000000003102855?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=15&artEan=4572&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "19.80",
             "pricewalmart": "11.40",
             "pricechedraui": "25.20",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "29.50"
         },
         {
             "name": "Gelatina",
@@ -475,11 +475,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/Default.aspx?p=13351&s=11349257&key=23495015-36eb-4876-a354-b8f9662f7bf9",
             "urlwalmart": "https://super.walmart.com.mx/azucar-y-postres/polvo-para-gelatina-de-agua-d-gari-sabor-fresa-120-g/00073525700251",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Azúcar-y-Postres/Gelatinas-y-Flanes-en-Polvo/Gelatina-D´Gari-120g-Frutos-Rojos/p/000000000003369269?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=58&artEan=735257002520&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "10.65",
             "pricewalmart": "9.20",
             "pricechedraui": "9.90",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "9.60"
         },
         {
             "name": "Ajonjolí",
@@ -488,11 +488,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1031403&key=00430f17-8cd2-4f40-9c13-2a626aca7191",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/ajonjoli-verde-valle-100-g/00078162400663",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Saborizantes/Extractos/Ajonjoli-Catarinos-Bolsa-100-GR/p/000000000003043230?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=71&artEan=781624006639&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "12.00",
             "pricewalmart": "13.50",
             "pricechedraui": "15.20",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "14.50"
         },
         {
             "name": "Amaranto",
@@ -501,11 +501,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=",
             "urlwalmart": "https://super.walmart.com.mx/arroz-frijol-y-semillas/amaranto-tehutli-amaranto-tostado-250-g/00750300001306",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Despensa/Dulces-y-Chocolates/Dulces-Típicos/Amaranto-Olype-220-Gr/p/000000000003311135?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=64&artEan=7501485800114&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "-",
             "pricewalmart": "25.00",
             "pricechedraui": "35.00",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "23.50"
         },
         {
             "name": "Chía",
@@ -514,11 +514,11 @@
             "urlsoriana": "http://superentucasa.soriana.com/default.aspx?p=13351&s=1623733&key=541428a5-7599-4106-801e-b004a5fad056",
             "urlwalmart": "https://super.walmart.com.mx/hierbas-y-especias/semilla-de-chia-infusionate-120-g/00750300156695",
             "urlchedraui": "https://www.chedraui.com.mx/Departamentos/Súper/Frutas-y-Verduras/Procesados/Semilla-De-Chia%C2%A0%C2%A0-Pz%C2%A0-Planta-Da-Vida%C2%A0/p/000000000003101338?siteName=Sitio+de+Chedraui",
-            "urlcitymarket": "https://www.citymarket.com.mx/comprasbiencitymarket/",
+            "urlcitymarket": "http://www.lacomer.com.mx/lacomer/doHome.action?succId=305&succFmt=200&pasId=495&artEan=7502234862155&ver=detallearticulo&opcion=detarticulo",
             "pricesoriana": "29.90",
             "pricewalmart": "28.50",
             "pricechedraui": "28.50",
-            "pricecitymarket": "200.00"
+            "pricecitymarket": "45.40"
         }
     ]
 }
