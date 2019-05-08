@@ -26,14 +26,14 @@ class NewProduct extends HTMLElement {
                     <div class="card-content">
                         <div class="content" style="text-align: center">
                             <figure class="image is-300x300">
-                                <img src="${product.image}" alt="Smiley face" height="300" width="300">
+                                <img src="${product.image}" alt="Smiley face" style="width:400px;height:350px;">
                             </figure>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="column is-3">
+            <div class="column is-3" style="margin-top:2%">
                 <div class="card is-shady">
                     <div class="card-content">
                         <div class="content" style="text-align: center">
@@ -78,7 +78,7 @@ class NewProduct extends HTMLElement {
 
             </div>
 
-            <div class="column is-3">
+            <div class="column is-3" style="margin-top:2%">
 
                 <div class="card is-shady">
                     <div class="card-content">
